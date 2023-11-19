@@ -7,7 +7,7 @@
 [mongodb:vars]
 MONGO_USERNAME=mongodbadmin
 MONGO_DB=categories
-NAME=Sivakumar-inventory
+NAME=Hanshith-inventory
 
 [mysql]
 roboshop-us-dev-db-mysql-01.joindevops.online
